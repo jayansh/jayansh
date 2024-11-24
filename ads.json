@@ -16,6 +16,7 @@
             "authorization"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {},
+        "name": "ConsentApp"
     }
 }
