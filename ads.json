@@ -1,1 +1,21 @@
-{}
+{
+    "ConsentApp": {
+        "projectName": "ConsentApp",
+        "description": "OpenBanking Consent App",
+        "type": "community",
+        "author": "jayansh",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/jayansh/jayansh",
+        "githubUri": "https://github.com/jayansh/jayansh",
+        "license": "apache-2.0",
+        "lastUpdated": "1732444198070",
+        "tags": [
+            "openid-connect",
+            "jans",
+            "authentication",
+            "authorization"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
